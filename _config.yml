@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: vusvus777@gmail.com
 description: wow hi my name is choi
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: pi
 github_username: pi
 theme: minima
