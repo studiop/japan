@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
+title: Welcome to Jekyll!
+date: 2023-10-06 00:00:00 Z
 excerpt: 왔더 이것은 내용입니다.
 ---
 
